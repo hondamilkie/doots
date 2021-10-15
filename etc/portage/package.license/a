@@ -1,0 +1,11 @@
+>=media-fonts/font-bh-type1-1.0.3-r2 bh-luxi
+>=media-fonts/font-bh-ttf-1.0.3-r2 bh-luxi
+>=x11-drivers/nvidia-drivers-470.74 NVIDIA-r2
+>=x11-drivers/nvidia-drivers-470.63.01 NVIDIA-r2
+>=x11-drivers/nvidia-drivers-470.62.05 NVIDIA-r2
+>=x11-drivers/nvidia-drivers-460.91.03 NVIDIA-r2
+>=x11-drivers/nvidia-drivers-390.144 NVIDIA-r2
+>=sys-kernel/linux-firmware-20210818 linux-fw-redistributable no-source-code
+>=www-client/vivaldi-4.3.2439.44 Vivaldi
+>=net-im/discord-bin-0.0.16 all-rights-reserved
+>=media-fonts/mikachan-font-ttf-8.9-r2 free-noncomm
